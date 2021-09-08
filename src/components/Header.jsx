@@ -32,7 +32,7 @@ export default function Header() {
       <div className="container py-5">
         <div className="d-block mx-4 my-5">
           <h1 className="h1 boldest text-white my-2"> Find Your Dream Job</h1>
-          <p className="h5 text-white my-2">
+          <p className="fs-6 lighter text-white my-2">
             Browse through thousands of full-time or part-time jobs near you
           </p>
         </div>
