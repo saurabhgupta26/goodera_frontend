@@ -9,7 +9,7 @@ export default function Main() {
             <div className="bg-secondary bg-opacity-75 rounded-lg product-box border smviewb"></div>
             <div className="d-inline-block px-4 py-2">
               <h4 className="h5">Executive Producer</h4>
-              <p className="fs-6 fw-lighter text-secondary lh-base text-align-justify" >
+              <p className="fs-6 fw-lighter text-secondary lh-base text-align-justify">
                 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vero
                 porro aut nam omnis molestias est sequi!
               </p>
@@ -39,7 +39,7 @@ export default function Main() {
             <div className="bg-secondary bg-opacity-75 rounded-lg product-box border"></div>
             <div className="d-inline-block px-4 py-2">
               <h4 className="h5">Executive Producer</h4>
-              <p className="fs-6 fw-lighter text-secondary lh-base text-align-justify" >
+              <p className="fs-6 fw-lighter text-secondary lh-base text-align-justify">
                 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vero
                 porro aut nam omnis molestias est sequi!
               </p>
@@ -69,7 +69,7 @@ export default function Main() {
             <div className="bg-secondary bg-opacity-75 rounded-lg product-box border"></div>
             <div className="d-inline-block px-4 py-2">
               <h4 className="h5">Executive Producer</h4>
-              <p className="fs-6 fw-lighter text-secondary lh-base text-align-justify" >
+              <p className="fs-6 fw-lighter text-secondary lh-base text-align-justify">
                 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vero
                 porro aut nam omnis molestias est sequi!
               </p>
@@ -99,7 +99,7 @@ export default function Main() {
             <div className="bg-secondary bg-opacity-75 rounded-lg product-box border"></div>
             <div className="d-inline-block px-4 py-2">
               <h4 className="h5">Executive Producer</h4>
-              <p className="fs-6 fw-lighter text-secondary lh-base text-align-justify" >
+              <p className="fs-6 fw-lighter text-secondary lh-base text-align-justify">
                 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vero
                 porro aut nam omnis molestias est sequi!
               </p>

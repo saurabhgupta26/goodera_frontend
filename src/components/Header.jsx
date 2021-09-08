@@ -12,8 +12,7 @@ export default function Header() {
             </a>
           </div>
           <a href="##" className="text-white link m-4 active">
-            {" "}
-            Find Jobs{" "}
+            Find Jobs
           </a>
           <a href="##" className="text-white link m-4">
             Upskill Yourself
