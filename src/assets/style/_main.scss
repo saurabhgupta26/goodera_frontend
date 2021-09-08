@@ -1,6 +1,6 @@
 .header_bg {
     background: linear-gradient(274.83deg, #5DB0DF 0.58%, #5D7ADF 74.3%);
-    height: 15rem;
+    // height: 15rem;
     width: 100%;
 }
 
@@ -19,3 +19,59 @@
     margin: 0 auto;
     background-color: white;
 }
+
+.btn-color, .btn-invert:hover {
+    background-color: #F07987;
+    color: white;
+    border: 2px solid #F07987;
+    border-radius: 7px;
+}
+.btn-invert, .btn-color:hover {
+    background-color: #fff;
+    color: #F07987;
+    border-radius: 7px;
+    border: 2px solid #F07987;
+}
+.rounded-lg {
+    border-radius: 1rem;
+}
+.center {
+    margin: 0 auto;
+}
+.w-80 {
+    width: 80%;
+}
+.main-bg {
+    background-color: #E5E5E5;
+    width: 100%;
+}
+.product-box {
+    width: 25rem;
+    height: 10rem;
+}
+
+.w-40 {
+    width: 47%
+}
+.w-10 {
+    width: 10rem;
+}
+
+@media screen and (max-width: 375px) {
+    .smview {
+      display: none;
+    }
+    .smviewb {
+      display: inline-block;
+    //   width: 100%;
+    }
+    .container {
+        max-width: 375px;
+        overflow: hidden;
+    }
+    .sm-margin {
+        margin-top: 2.5rem;
+    }
+
+  
+    }

@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Header() {
   return (
-    <div className="header_bg">
+    <div className="header_bg navbar">
       <div className="d-flex justify-content-between container align-items-center">
         <div className="d-flex justify-content-between align-items-center">
           <div className="d-flex justify-content-between m-4 align-items-center">
@@ -29,7 +29,7 @@ export default function Header() {
           </a>
         </div>
       </div>
-      <div className="container">
+      <div className="container py-5">
         <div className="d-block mx-4 my-5">
           <h1 className="h1 boldest text-white my-2"> Find Your Dream Job</h1>
           <p className="h5 text-white my-2">

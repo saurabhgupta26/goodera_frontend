@@ -1,9 +1,14 @@
 body {
     font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
 }
 
 .container {
-    max-width: 1200px;
+    max-width: 1208px;
+    margin: 0 auto;
+}
+.container-1 {
+    max-width: 1150px;
     margin: 0 auto;
 }
 
@@ -19,4 +24,10 @@ body {
 
 .boldest {
     font-weight: 700;
+}
+.px-6 {
+    padding:0 4rem;
+}
+.py-6 {
+    padding: 4rem 0;
 }
