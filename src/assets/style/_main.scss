@@ -1,0 +1,21 @@
+.header_bg {
+    background: linear-gradient(274.83deg, #5DB0DF 0.58%, #5D7ADF 74.3%);
+    height: 15rem;
+    width: 100%;
+}
+
+.active {
+    position: relative;
+}
+
+.active::after {
+    content: '';
+    position: absolute;
+    bottom: -5px;
+    left: 0;
+    right: 0;
+    width: 50%;
+    height: 3px;
+    margin: 0 auto;
+    background-color: white;
+}
